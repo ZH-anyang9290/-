@@ -1,0 +1,5 @@
+name: "street_model_scene_series"
+title: "把模特融入街景，出 6 个镜头"
+description: "把参考模特融入街景照片，出 6 张职业模特街拍静态单图。"
+category: "Work and knowledge"
+include_in_prompt: true
